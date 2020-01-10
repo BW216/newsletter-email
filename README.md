@@ -1,2 +1,2 @@
 # newsletter-email
-Newsletter HTML Email
+Newsletter HTML Email showcasing the most current NBA events
